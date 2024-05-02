@@ -1,3 +1,13 @@
 # CompLexico
 
-- Testing
+### *Computer-assisted Lexicology and Lexicography (CompLexico)*
+
+A small research sub-group within [CIRHSS](https://www.cirhss.org/) at the Faculty of Humanities, Udayana University. It is initiated and led by Gede Primahadi Wijaya Rajeg. CompLexico aims at both pedagogical and research-related goals. The pre-cursor of *CompLexico* is Gede's research interest in corpus linguistics and lexicology, manifested in (i) his teaching of corpus linguistics for undergraduate students in the English Lexicology and Lexicography and for the Linguistics Doctoral program at Udayana University, and in (ii) his postdoctoral work at the University of Oxford to develop lexical resources for Enggano, an endangered Austronesian language spoken on the Enggano island, Indonesia.
+
+### About the logo
+
+The logo is created from two images of the [Heptapod](https://aliens.fandom.com/wiki/Heptapod) logograms from the [*Arrival*](https://www.imdb.com/title/tt2543164/) movie. The outer logogram/circle in the logo means 'Humanity' ([original image](https://github.com/WolframResearch/Arrival-Movie-Live-Coding/blob/master/ScriptLogoJpegs/Humanity1.jpg)) in the Heptapod language. Meanwhile, the inner logogram means 'Solve on you now' ([original image](https://github.com/WolframResearch/Arrival-Movie-Live-Coding/blob/master/ScriptLogoJpegs/SolveOnYouNow1.jpg)). The original black colour of the outer logogram is modified and filled with an image of computer code shared by [Markus Spiske](https://unsplash.com/@markusspiske?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/matrix-movie-still-iar-afB0QQw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash). The inner logogram is also modified and coloured with another computer code image shared by [Mitchell Luo](https://unsplash.com/@mitchel3uo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/black-and-white-striped-textile-FWoq_ldWlNQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash).
+
+Each of these logograms is provided with the [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/) (cf. [here](https://github.com/WolframResearch/Arrival-Movie-Live-Coding/blob/master/COPYING.md)) inside [this directory](https://github.com/WolframResearch/Arrival-Movie-Live-Coding/tree/master/ScriptLogoJpegs) under this [GitHub repository](https://github.com/WolframResearch/Arrival-Movie-Live-Coding/tree/master). The main inspiration to create a circular logo comes from the [Lexibank project](https://lexibank.clld.org/).
+
+
