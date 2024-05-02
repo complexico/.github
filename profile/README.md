@@ -2,28 +2,32 @@
 
 ### *Computer-assisted Lexicology and Lexicography (CompLexico)*
 
-A small research sub-group within [CIRHSS](https://www.cirhss.org/) at the Faculty of Humanities, Udayana University (formalised in 2024 by the Research and the Outreach Department of Udayana University). *CompLexico* is initiated and led by Gede Primahadi Wijaya Rajeg. It aims at both pedagogical and research-related goals. The pre-cursor of *CompLexico* is Gede's research interest in corpus linguistics and lexicology, manifested in (i) his teaching of corpus linguistics for undergraduate students in the English Lexicology and Lexicography and for the Linguistics Doctoral program at Udayana University, and in (ii) his postdoctoral work at the University of Oxford to develop lexical resources for Enggano, an endangered Austronesian language spoken on the Enggano island, Indonesia. 
+A research sub-group within [CIRHSS](https://www.cirhss.org/) at the Faculty of Humanities, Udayana University (formalised in 2024 by the Research and Community Outreach Department of Udayana University). *CompLexico* is initiated and led by Gede Primahadi Wijaya Rajeg. It aims at both pedagogical and research-related goals. The pre-cursor of *CompLexico* is Gede Rajeg's research interest in corpus linguistics and lexicology. This is manifested, from the pedagogical side, in his teaching of corpus linguistics and modern lexicographic tools (e.g., [COCA](https://www.english-corpora.org/coca/), [FLEx](https://software.sil.org/fieldworks/), and [WeSay](https://software.sil.org/wesay/)) for undergraduate students in the English Lexicology and Lexicography course at the Bachelor of English Literature department, and for convening the Corpus Linguistics course in the Linguistics Doctoral program at Udayana University. From the research side, *CompLexico* grew, among others, from Gede's postdoctoral work (funded by the Arts and Humanities Research Council [AHRC]) at the University of Oxford to develop lexical resources for Enggano, a threatened Austronesian language spoken on the Enggano island, Indonesia (PI: Prof. Mary Dalrymple; co-PI: Prof. I Wayan Arka; [cf. the Enggano webpage](https://enggano.ling-phil.ox.ac.uk/)).
 
 ### About the logo
 
-The logo is created from two images of the [Heptapod](https://aliens.fandom.com/wiki/Heptapod) logograms from the [*Arrival*](https://www.imdb.com/title/tt2543164/) movie. The outer logogram/circle in the logo means 'Humanity' ([original image](https://github.com/WolframResearch/Arrival-Movie-Live-Coding/blob/master/ScriptLogoJpegs/Humanity1.jpg)) in the Heptapod language. Meanwhile, the inner logogram means 'Solve on you now' ([original image](https://github.com/WolframResearch/Arrival-Movie-Live-Coding/blob/master/ScriptLogoJpegs/SolveOnYouNow1.jpg)). The original black colour of the outer logogram is modified and filled with an image of computer code shared by [Markus Spiske](https://unsplash.com/@markusspiske?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/matrix-movie-still-iar-afB0QQw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash). The inner logogram is also modified and coloured with another computer code image shared by [Mitchell Luo](https://unsplash.com/@mitchel3uo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/black-and-white-striped-textile-FWoq_ldWlNQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash).
+The logo of *CompLexico* combines two [Heptapod](https://aliens.fandom.com/wiki/Heptapod) logograms from the [*Arrival*](https://www.imdb.com/title/tt2543164/) movie. The outer logogram/circle in the logo means 'Humanity' ([original image](https://github.com/WolframResearch/Arrival-Movie-Live-Coding/blob/master/ScriptLogoJpegs/Humanity1.jpg)) in the Heptapod language. Meanwhile, the inner logogram means 'Solve on you now' ([original image](https://github.com/WolframResearch/Arrival-Movie-Live-Coding/blob/master/ScriptLogoJpegs/SolveOnYouNow1.jpg)). The original black colour of the outer logogram is modified and filled with an image of computer code shared by [Markus Spiske](https://unsplash.com/@markusspiske?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/matrix-movie-still-iar-afB0QQw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash). The colour of the inner logogram is also replaced with another computer code image shared by [Mitchell Luo](https://unsplash.com/@mitchel3uo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/black-and-white-striped-textile-FWoq_ldWlNQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash).
 
-Each of these logograms is provided with the [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/) (cf. [here](https://github.com/WolframResearch/Arrival-Movie-Live-Coding/blob/master/COPYING.md)) inside [this directory](https://github.com/WolframResearch/Arrival-Movie-Live-Coding/tree/master/ScriptLogoJpegs) under this [GitHub repository](https://github.com/WolframResearch/Arrival-Movie-Live-Coding/tree/master). The main inspiration to create a circular logo comes from the [Lexibank project](https://lexibank.clld.org/).
+Each of these logograms is provided with the [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/) (cf. [here](https://github.com/WolframResearch/Arrival-Movie-Live-Coding/blob/master/COPYING.md)) inside [this directory](https://github.com/WolframResearch/Arrival-Movie-Live-Coding/tree/master/ScriptLogoJpegs) under this [GitHub repository](https://github.com/WolframResearch/Arrival-Movie-Live-Coding/tree/master). The main inspiration to create a circular logo comes from the [Lexibank project](https://lexibank.clld.org/). The *CompLexico* logo is created by Gede Rajeg using [GIMP](https://www.gimp.org/).
 
 ### Members
 
 - I Wayan Arka (Australian National University/Udayana University; Director of CIRHSS)
 
-- Cokorda Rai Adi Pramartha (Department of Computer Science, Faculty of Mathematics and Natural Science, Udayana University; Co-Director of CIRHSS)
-
-- Karlina Denistia (English Department at the Vocational School, Sebelas Maret University, Central Java)
-
-- I Putu Permana Mahardika (Balinese language Department and Master Program of Linguistics, Udayana University)
-
-- Ketut Artawa (Bachelor of English Literature program; the head of the Doctoral Program of Linguistics, Udayana University)
+- Ketut Artawa (Bachelor of English Literature program; the head of the Doctoral Program in Linguistics, Udayana University)
 
 - I Made Rajeg (Bachelor of English Literature program)
+
+- Cokorda Rai Adi Pramartha (Department of Computer Science, Faculty of Mathematics and Natural Science, Udayana University; Co-Director of CIRHSS)
+
+- I Putu Permana Mahardika (Balinese language Department and Master Program in Linguistics, Udayana University)
 
 - Ni Made Ayu Widiastuti (Bachelor of English Literature program)
 
 - Putu Weddha Savitri (Bachelor of English Literature program)
+
+#### External research collaborators
+
+- Karlina Denistia (English Department at the Vocational School, Sebelas Maret University, Solo, Central Java)
+
+- Prihantoro (English Department and Master Program in Linguistics, Universitas Diponegoro, Semarang, Central Java)
