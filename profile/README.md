@@ -2,7 +2,7 @@
 
 ### *Computer-assisted Lexicology and Lexicography (CompLexico)*
 
-A small research sub-group within [CIRHSS](https://www.cirhss.org/) at the Faculty of Humanities, Udayana University. It is initiated and led by Gede Primahadi Wijaya Rajeg. CompLexico aims at both pedagogical and research-related goals. The pre-cursor of *CompLexico* is Gede's research interest in corpus linguistics and lexicology, manifested in (i) his teaching of corpus linguistics for undergraduate students in the English Lexicology and Lexicography and for the Linguistics Doctoral program at Udayana University, and in (ii) his postdoctoral work at the University of Oxford to develop lexical resources for Enggano, an endangered Austronesian language spoken on the Enggano island, Indonesia.
+A small research sub-group within [CIRHSS](https://www.cirhss.org/) at the Faculty of Humanities, Udayana University (formalised in 2024 by the Research and the Outreach Department of Udayana University). *CompLexico* is initiated and led by Gede Primahadi Wijaya Rajeg. It aims at both pedagogical and research-related goals. The pre-cursor of *CompLexico* is Gede's research interest in corpus linguistics and lexicology, manifested in (i) his teaching of corpus linguistics for undergraduate students in the English Lexicology and Lexicography and for the Linguistics Doctoral program at Udayana University, and in (ii) his postdoctoral work at the University of Oxford to develop lexical resources for Enggano, an endangered Austronesian language spoken on the Enggano island, Indonesia. 
 
 ### About the logo
 
@@ -10,4 +10,20 @@ The logo is created from two images of the [Heptapod](https://aliens.fandom.com/
 
 Each of these logograms is provided with the [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/) (cf. [here](https://github.com/WolframResearch/Arrival-Movie-Live-Coding/blob/master/COPYING.md)) inside [this directory](https://github.com/WolframResearch/Arrival-Movie-Live-Coding/tree/master/ScriptLogoJpegs) under this [GitHub repository](https://github.com/WolframResearch/Arrival-Movie-Live-Coding/tree/master). The main inspiration to create a circular logo comes from the [Lexibank project](https://lexibank.clld.org/).
 
+### Members
 
+- I Wayan Arka (Australian National University/Udayana University; Director of CIRHSS)
+
+- Cokorda Rai Adi Pramartha (Department of Computer Science, Faculty of Mathematics and Natural Science, Udayana University; Co-Director of CIRHSS)
+
+- Karlina Denistia (English Department at the Vocational School, Sebelas Maret University, Central Java)
+
+- I Putu Permana Mahardika (Balinese language Department and Master Program of Linguistics, Udayana University)
+
+- Ketut Artawa (Bachelor of English Literature program; the head of the Doctoral Program of Linguistics, Udayana University)
+
+- I Made Rajeg (Bachelor of English Literature program)
+
+- Ni Made Ayu Widiastuti (Bachelor of English Literature program)
+
+- Putu Weddha Savitri (Bachelor of English Literature program)
