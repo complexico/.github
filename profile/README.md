@@ -8,6 +8,7 @@ A research group under the [Indonesian Languages, Documentation and Learning](ht
 #### 🤝 Connect with us: 
 
 <a href="https://www.instagram.com/complexico.unud/"><img align="left" src="https://raw.githubusercontent.com/complexico/.github/main/images/instagram.svg" alt="CompLexico | Instagram" width="21px"/></a>
+</br>
 
 ### About the logo
 
