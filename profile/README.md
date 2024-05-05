@@ -5,9 +5,7 @@
 A research group under the [Indonesian Languages, Documentation and Learning](https://www.cirhss.org/our-research/indonesian-languages-documentation-and-learning/) strand within [CIRHSS](https://www.cirhss.org/) at the Faculty of Humanities, Udayana University (formalised in 2024 by the Research and Community Outreach Department of Udayana University). *CompLexico* is initiated and led by Gede Primahadi Wijaya Rajeg. It aims at both pedagogical and research-related goals. The pre-cursor of *CompLexico* is Gede Rajeg's research interest in corpus linguistics and lexicology. This is manifested, from the pedagogical side, in his teaching (and supervision [cf. here](https://github.com/complexico/anger-mad-coca/blob/main/README.md)) of corpus linguistics and modern lexicographic tools (e.g., [COCA](https://www.english-corpora.org/coca/), [FLEx](https://software.sil.org/fieldworks/), and [WeSay](https://software.sil.org/wesay/)) for undergraduate students in the English Lexicology and Lexicography course, and for convening the Corpus Linguistics course in the Linguistics Doctoral program at Udayana University. From the research side, *CompLexico* grew, among others, from Gede's postdoctoral work (funded by the Arts and Humanities Research Council [AHRC]) at the University of Oxford to develop lexical resources for Enggano, a threatened Austronesian language spoken in the [Enggano island](https://maps.app.goo.gl/9TZcjHvqeQWNcuUA7), Bengkulu, Indonesia (PI: Prof. Mary Dalrymple; co-PI: Prof. I Wayan Arka; [cf. the Enggano webpage](https://enggano.ling-phil.ox.ac.uk/)).
 
 
-#### 🤝 Connect with us: 
-
-<a href="https://www.instagram.com/complexico.unud/"><img align="left" src="https://raw.githubusercontent.com/complexico/.github/main/images/instagram.svg" alt="CompLexico | Instagram" width="21px"/></a>
+#### 🤝 Connect with us: <a href="https://www.instagram.com/complexico.unud/"><img src="https://raw.githubusercontent.com/complexico/.github/main/images/instagram.svg" alt="CompLexico | Instagram" width="21px"/></a>
 </br>
 
 ### About the logo
