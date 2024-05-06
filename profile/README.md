@@ -12,11 +12,11 @@ The main inspiration to create a circular logo comes from the [Lexibank project]
 
 ### Members
 
-- I Wayan Arka (Australian National University/Udayana University; Director of CIRHSS)
+- <a href="https://researchprofiles.anu.edu.au/en/persons/wayan-arka" target="_blank">I Wayan Arka</a> (Australian National University/Udayana University; Director of CIRHSS)
 
-- Ketut Artawa (Bachelor of English Literature program; the head of the Doctoral Program in Linguistics, Udayana University)
+- <a href="https://udayananetworking.unud.ac.id/professor/1784" target="_blank">Ketut Artawa</a> (Bachelor of English Literature program; the head of the Doctoral Program in Linguistics, Udayana University)
 
-- I Made Rajeg (Bachelor of English Literature program)
+- <a href="https://udayananetworking.unud.ac.id/lecturer/1817-i-made-rajeg" target="_blank">I Made Rajeg</a> (Bachelor of English Literature program)
 
 - Cokorda Rai Adi Pramartha (Department of Computer Science, Faculty of Mathematics and Natural Science, Udayana University; Co-Director of CIRHSS and Indonesian team leader for the Digital Humanities strand within CIRHSS)
 
