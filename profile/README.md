@@ -16,7 +16,7 @@ The main inspiration to create a circular logo comes from the [Lexibank project]
 
 ### Members
 
-- <a href="https://researchprofiles.anu.edu.au/en/persons/wayan-arka" target="_blank">I Wayan Arka</a> (Australian National University/Udayana University; Director of CIRHSS)
+- <a href="https://researchprofiles.anu.edu.au/en/persons/wayan-arka" target="_blank">I Wayan Arka</a> (Australian National University/Udayana University; Advisory board of CIRHSS)
 
 - <a href="https://udayananetworking.unud.ac.id/professor/1784" target="_blank">Ketut Artawa</a> (Bachelor of English Literature program; the head of the Doctoral Program in Linguistics, Udayana University; Indonesian team leader for the Indonesian Languages, Documentation and Learning strand within CIRHSS)
 
