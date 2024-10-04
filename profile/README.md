@@ -24,8 +24,6 @@ The main inspiration to create a circular logo comes from the [Lexibank project]
 
 - [Cokorda Rai Adi Pramartha](https://udayananetworking.unud.ac.id/lecturer/2379-cokorda-rai-adi-pramartha) (Department of Computer Science, Faculty of Mathematics and Natural Science, Udayana University; Co-Director of CIRHSS and Indonesian team leader for the Digital Humanities strand within CIRHSS)
 
-- [I Putu Permana Mahardika](https://scholar.google.com/citations?user=Saaq65AAAAAJ&hl=en) (Balinese language Department and Master Program in Linguistics, Udayana University)
-
 - [Ni Made Ayu Widiastuti](https://udayananetworking.unud.ac.id/lecturer/1895-ni-made-ayu-widiastuti) (Bachelor of English Literature program)
 
 - [Putu Weddha Savitri](https://udayananetworking.unud.ac.id/lecturer/credential/1888-putu-weddha-savitri) (Bachelor of English Literature program)
@@ -35,3 +33,5 @@ The main inspiration to create a circular logo comes from the [Lexibank project]
 - [Karlina Denistia](https://www.researchgate.net/profile/Karlina-Denistia) (English Department at the Vocational School, Sebelas Maret University, Solo, Central Java)
 
 - [Prihantoro](https://sites.google.com/live.undip.ac.id/prihantoro/home) (English Department and Master Program in Linguistics, Universitas Diponegoro, Semarang, Central Java)
+
+- [I Putu Permana Mahardika](https://scholar.google.com/citations?user=Saaq65AAAAAJ&hl=en) (Department of Linguistics, Gadjah Mada University)
