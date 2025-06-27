@@ -16,22 +16,8 @@ The main inspiration to create a circular logo comes from the [Lexibank project]
 
 ### Members
 
-- <a href="https://researchprofiles.anu.edu.au/en/persons/wayan-arka" target="_blank">I Wayan Arka</a> (Australian National University/Udayana University; Advisory board of CIRHSS)
-
-- <a href="https://udayananetworking.unud.ac.id/professor/1784" target="_blank">Ketut Artawa</a> (Bachelor of English Literature program; the head of the Doctoral Program in Linguistics, Udayana University; Indonesian team leader for the Indonesian Languages, Documentation and Learning strand within CIRHSS)
-
-- <a href="https://udayananetworking.unud.ac.id/lecturer/1817-i-made-rajeg" target="_blank">I Made Rajeg</a> (Bachelor of English Literature program)
-
-- [Cokorda Rai Adi Pramartha](https://udayananetworking.unud.ac.id/lecturer/2379-cokorda-rai-adi-pramartha) (Department of Computer Science, Faculty of Mathematics and Natural Science, Udayana University; Director of CIRHSS and Indonesian team leader for the Digital Humanities strand within CIRHSS)
-
-- [Ni Made Ayu Widiastuti](https://udayananetworking.unud.ac.id/lecturer/1895-ni-made-ayu-widiastuti) (Bachelor of English Literature program)
-
-- [Putu Weddha Savitri](https://udayananetworking.unud.ac.id/lecturer/credential/1888-putu-weddha-savitri) (Bachelor of English Literature program)
+<a href="https://researchprofiles.anu.edu.au/en/persons/wayan-arka" target="_blank">I Wayan Arka</a>; <a href="https://udayananetworking.unud.ac.id/professor/1784" target="_blank">Ketut Artawa</a>; <a href="https://udayananetworking.unud.ac.id/lecturer/1817-i-made-rajeg" target="_blank">I Made Rajeg</a>; [Ni Made Ayu Widiastuti](https://udayananetworking.unud.ac.id/lecturer/1895-ni-made-ayu-widiastuti) (Bachelor of English Literature program); [Putu Weddha Savitri](https://udayananetworking.unud.ac.id/lecturer/credential/1888-putu-weddha-savitri) (Bachelor of English Literature program); [Cokorda Rai Adi Pramartha](https://udayananetworking.unud.ac.id/lecturer/2379-cokorda-rai-adi-pramartha)
 
 #### External research collaborators
 
-- [Karlina Denistia](https://www.researchgate.net/profile/Karlina-Denistia) (English Department at the Vocational School, Sebelas Maret University, Solo, Central Java)
-
-- [Prihantoro](https://sites.google.com/live.undip.ac.id/prihantoro/home) (English Department and Master Program in Linguistics, Universitas Diponegoro, Semarang, Central Java)
-
-- [I Putu Permana Mahardika](https://scholar.google.com/citations?user=Saaq65AAAAAJ&hl=en) (Department of Linguistics, Gadjah Mada University)
+[Karlina Denistia](https://www.researchgate.net/profile/Karlina-Denistia) (English Department at the Vocational School, Sebelas Maret University, Solo, Central Java); [Prihantoro](https://sites.google.com/live.undip.ac.id/prihantoro/home) (English Department and Master Program in Linguistics, Universitas Diponegoro, Semarang, Central Java); [I Putu Permana Mahardika](https://scholar.google.com/citations?user=Saaq65AAAAAJ&hl=en) (Department of Linguistics, Gadjah Mada University); [Intan Pradita](https://pbi.uii.ac.id/2020/06/19/intan-pradita/) (Universitas Islam Indonesia); Devi Ambarwati Puspitasari (BRIN); Bayu Permana Sukma (BRIN); Saefu Zaman (BRIN); Prima Hariyanto (BRIN); Yenny Karlina (BRIN); Mukhamdanah (BRIN).
