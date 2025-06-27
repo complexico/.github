@@ -16,7 +16,7 @@ The main inspiration to create a circular logo comes from the [Lexibank project]
 
 ### Members
 
-<a href="https://researchprofiles.anu.edu.au/en/persons/wayan-arka" target="_blank">I Wayan Arka</a>; <a href="https://udayananetworking.unud.ac.id/professor/1784" target="_blank">Ketut Artawa</a>; <a href="https://udayananetworking.unud.ac.id/lecturer/1817-i-made-rajeg" target="_blank">I Made Rajeg</a>; [Ni Made Ayu Widiastuti](https://udayananetworking.unud.ac.id/lecturer/1895-ni-made-ayu-widiastuti) (Bachelor of English Literature program); [Putu Weddha Savitri](https://udayananetworking.unud.ac.id/lecturer/credential/1888-putu-weddha-savitri) (Bachelor of English Literature program); [Cokorda Rai Adi Pramartha](https://udayananetworking.unud.ac.id/lecturer/2379-cokorda-rai-adi-pramartha)
+<a href="https://researchprofiles.anu.edu.au/en/persons/wayan-arka" target="_blank">I Wayan Arka</a>; <a href="https://udayananetworking.unud.ac.id/professor/1784" target="_blank">Ketut Artawa</a>; <a href="https://udayananetworking.unud.ac.id/lecturer/1817-i-made-rajeg" target="_blank">I Made Rajeg</a>; [Ni Made Ayu Widiastuti](https://udayananetworking.unud.ac.id/lecturer/1895-ni-made-ayu-widiastuti); [Putu Weddha Savitri](https://udayananetworking.unud.ac.id/lecturer/credential/1888-putu-weddha-savitri); [Cokorda Rai Adi Pramartha](https://udayananetworking.unud.ac.id/lecturer/2379-cokorda-rai-adi-pramartha)
 
 #### External research collaborators
 
